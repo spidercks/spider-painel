@@ -96,9 +96,6 @@ def menu():
 ╰━━━┫╭━┻┻━━┻━━┻╯╱╰╯╱╱╰╯╰┻┻╯╰┻━━┻━╯
 ╱╱╱╱┃┃
 ╱╱╱╱╰╯
-url1='https://httpbin.org/ip'
-res1 = requests.get(url1);req1=res1.json()
-Br=[origin]
  {f} - {vd}{f}
  {az}- - - - - - - - - - - - -{f}	                            
 {vm}--=== >>{f} [  {vd} painel by spiderckz {f} ]  
