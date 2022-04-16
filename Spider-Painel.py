@@ -81,8 +81,7 @@ def ban():
 ╱╱╱╱┃┃
 ╱╱╱╱╰╯
  {f} - {vd} {f}
- {az} - - - - - - - - - - - - -{f}	                            
-{vm}--=== >>{f} [  {vd} painel by spiderckz {f} ]  
+ [+] {vd} painel by spiderckz {f} [+]  
   """)
 os.system('clear');
 def menu():
@@ -97,13 +96,12 @@ def menu():
 ╱╱╱╱┃┃
 ╱╱╱╱╰╯
  {f} - {vd}{f}
- {az}- - - - - - - - - - - - -{f}	                            
-{vm}--=== >>{f} [  {vd} painel by spiderckz {f} ]  
+ [+]  {vd} painel by spiderckz {f} [+]  
     	 	       
-- {az}[{f}{lz}01{f}{az}]{f} {vd}CONSULTAR IP {f}
-- {az}[{f}{lz}02{f}{az}]{f}{vd} CONSULTAR CEP {f}
-- {az}[{f}{lz}03{f}{az}]{f} {vd}CONSULTAR CNPJ {f}
-- {az}[{f}{lz}04{f}{az}]{f} {vd}SAIR{f}
+{az}[{f}{lz}01{f}{az}]{f} {vd}CONSULTAR IP {f}
+{az}[{f}{lz}02{f}{az}]{f}{vd} CONSULTAR CEP {f}
+{az}[{f}{lz}03{f}{az}]{f} {vd}CONSULTAR CNPJ {f}
+{az}[{f}{lz}04{f}{az}]{f} {vd}SAIR{f}
     """)
 try:
     menu()
