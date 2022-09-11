@@ -1,10 +1,10 @@
 import random
 ##By: spiderckz
 ##Gay: nerox
-print('| CC GENERATOR |')
-print('| BY SPIDERCKZ |')
+print("| CC GENERATOR |")
+print("| BY SPIDERCKZ |")
 print('versão 1.0')
-print ('telegram: t.me/spiderckz
+print ("telegram: t.me/spiderckz")
 print('--------------------------------------------------------')
 y = True
 Y = True
