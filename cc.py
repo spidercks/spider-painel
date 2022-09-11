@@ -52,7 +52,6 @@ if bi == 'y':
     print('Vencimento:', data1, data2, data3)
     print('CPF:', cpf)
     print('--------------------------------------------------------')
-    print('para usar o script novamente digite "python3 spider-gerador.py"')
     
 else:
     nume2 = random.randrange(1, 9999999999)
