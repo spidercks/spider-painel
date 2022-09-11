@@ -1,4 +1,4 @@
-import socket, random, time, http.client, json, os, subprocess
+import socket, random, time, http.client, json, os, subprocess, colorama
 from colorama import Fore, Back, Style 
 startTime = time.time()
 
