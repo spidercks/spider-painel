@@ -4,7 +4,7 @@ import random
 print("| CC GENERATOR |")
 print("| BY SPIDERCKZ |")
 print('versão 1.0')
-print ("telegram: t.me/spiderckz")
+print ("telegram: t.me/repspider")
 print('--------------------------------------------------------')
 y = True
 Y = True
